@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/items">
+        <file>resource/icon-anomaly.png</file>
+        <file>resource/icon-connect.png</file>
+        <file>resource/icon-delect.png</file>
+        <file>resource/icon-export.png</file>
+        <file>resource/icon-succeed.png</file>
+        <file>resource/icon-usb.png</file>
+        <file>resource/bk1.jpg</file>
+        <file>resource/bk2.jpg</file>
+        <file>resource/icon-calendar.png</file>
+        <file>resource/setting-menu-icon03.png</file>
+        <file>resource/setting-menu-icon07.png</file>
+    </qresource>
+</RCC>
